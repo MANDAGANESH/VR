@@ -1,0 +1,235 @@
+
+.vr-logo{
+    height:80px;
+    width:70px;
+}
+
+#navitem1{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+
+#navitem2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+
+#navitem3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+
+#navitem4{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+
+#navitem5{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+
+.banner-section-bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size:cover;
+    height:100vh;
+}
+
+.banner-heading{
+    color:white;
+    font-family:"Roboto";
+    font-size:45px;
+    font-weight: 300;
+}
+
+.banner-button{
+    height:45px;
+    width:130px;
+    background-color:#1a2137;
+    color:white;
+    font-family:"Roboto";
+    font-size:25px;
+    border-width:0px;
+}
+
+
+.feature-section{
+    background-color:white;
+}
+
+.fs-heading{
+    color:#1f2933;
+    font-weight:bold;
+}
+
+
+.fs-card{
+    text-align:center;
+}
+
+.fs-card-heading{
+    color:#1f2933;
+}
+
+.fs-card-para{
+    color:#7b8794;
+}
+
+.fs-span{
+    font-size:15px;
+    font-weight:bold;
+    color:black;
+    font-style: italic;
+}
+
+.included-vrkit-section{
+    background-color:#f9fbfe;
+}
+
+.ivr-card{
+    text-align:center;
+}
+
+.ivr-heading{
+    color:#1f2933;
+    font-size:35px;
+    font-weight: bold;
+}
+
+.ivr-para{
+    color:#323f4b;
+    font-size:25px;
+}
+
+.ivr-image{
+    height:220px;
+}
+
+.oc-section{
+    background-color:white;
+}
+
+.oc-image{
+    height:320px;
+}
+
+.oc-heading{
+    color:#1f2933;
+    font-weight:bold;
+}
+
+.oc-para{
+    color:#7b8794;
+}
+
+.oc-button{
+    background-color:#1a2137;
+    color:white;
+}
+
+.cu-section{
+    background-color:#222b36;
+}
+
+.cu-section{
+    color:white;
+    text-align:center;
+}
+
+.cu-image{
+    height:300px;
+}
+
+.cu-button{
+    background-color:#222b36;
+    color:white;
+    border-color: white;
+    border-width:1px;
+    text-align:center;
+}
+
+.tb-heading{
+    color:#1f2933;
+    font-weight:600;
+}
+
+.tb-image{
+    height:250px;
+}
+
+.tb-card-heading{
+    font-weight: 600;
+    color:#959ead;
+}
+
+.tb-card-para{
+    font-size:15px;
+    line-height: 30px;
+}
+
+.tb-anc{
+    color:#1754a1;
+    font-weight: 700;
+}
+
+.tb-button{
+    background-color: #1754a1;
+    color:white;
+    text-align:center;
+    border-width:0px;
+    border-radius:2px;
+}
+
+.p-heading{
+    color:#1f2933;
+}
+
+.p-card1{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height:70vh;
+}
+
+.p-card-heading{
+    color:white;
+    font-weight:400;
+}
+
+.p-card-para{
+    color:white;
+    font-size:20px;
+}
+
+.p-card-button{
+    background-color:#1f2933 ;
+    color:white;
+    border-color: white;
+    border-radius:2px;
+    border-width: 1px;
+}
+
+.p-card2{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png ");
+    background-size: cover;
+    height:70vh;
+}
+
+.follow-us-section {
+    background-color: #19232d;
+    font-family: Roboto;
+}
+
+.style {
+    font-size: 28px;
+    color: #959ead;
+}
+
+.para1 {
+    color: #959ead;
+}
+
+.para2 {
+    font-size: 18px;
+    color: #959ead;
+    font-weight: bold;
+}
